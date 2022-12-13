@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70aa7f947ebb294408a141fd60f45bd5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpClip: {fileID: 8300000, guid: 9b16595c4dfbfe646a86d58592366ec8, type: 3}
+  - hazardClip: {fileID: 8300000, guid: c5abe6dead7fb6645aa0a93f5357e97f, type: 3}
+  - gm: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
